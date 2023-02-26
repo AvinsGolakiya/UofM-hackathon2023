@@ -1,2 +1,1 @@
-# UofM-hackathon2023
-hackathon
+# hackathon23
